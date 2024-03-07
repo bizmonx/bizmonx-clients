@@ -1,0 +1,4 @@
+zig-cache/
+bin/
+target/
+zig-out/
